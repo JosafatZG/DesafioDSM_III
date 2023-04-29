@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="add_shopping_item">Agregar artículo</string>
+    <string name="add_a_new_shopping_item">Agregar un nuevo artículo</string>
+    <string name="name">Nombre</string>
+    <string name="amount">Cantidad</string>
+    <string name="add">AGREGAR</string>
+    <string name="cancel">CANCELAR</string>
+</resources>
